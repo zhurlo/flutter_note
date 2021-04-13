@@ -5,3 +5,4 @@ learn flutter
 - option + command + B 【查看实现类（子类）】
 - option + command + M 【代码抽取】
 - option + enter 【将widget放到Container中】
+- option + command + L 【代码格式化】
